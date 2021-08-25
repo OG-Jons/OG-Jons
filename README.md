@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2>Sup loser! Jonas here </h2>
 
-<!--
-**OG-Jons/OG-Jons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--♥♥♥ ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ♥♥♥ -->
 
-Here are some ideas to get you started:
+I'm Jonas, software engineer apprentice from someplace in Denmark.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a big fan of JavaScript (even though it's trash 😉) and wish to learn and git gud with TypeScript, so that's what you'll primarily see on here.
+I also use this account for school, so my school projects will be saved on here too!
+
+<h3>A bit more about me... 👇👇👇</h3>
+
+```javascript
+const jonas = {
+  languages: ["Javascript", "HTML", "CSS/SCSS", "GML", "MySQL", "Python", "C#"],
+  goals: ["VueJS", "TypeScript"],
+  frameworks: {
+    frontend: ["React", "Vue", "JSP"],
+    backend: ["Django", "ExpressJS", "NodeJS", "Firebase"],
+  },
+  dislikes: ["Java!"],
+  hobbies: ["Programming", "Mountainbiking", "Movies", "Cars"],
+  workingOn: ["Will to live"],
+};
+
+```
