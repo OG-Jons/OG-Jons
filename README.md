@@ -14,7 +14,7 @@ const jonas = {
   languages: ["Javascript", "HTML", "CSS/SCSS", "GML", "MySQL", "Python", "C#"],
   goals: ["VueJS", "TypeScript"],
   frameworks: {
-    frontend: ["React", "Vue", "JSP"],
+    frontend: ["React", "Vue", "Angular"],
     backend: ["Django", "ExpressJS", "NodeJS", "Firebase"],
   },
   dislikes: ["Java!"],
