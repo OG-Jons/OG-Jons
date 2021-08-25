@@ -12,6 +12,11 @@ I also use this account for school, so my school projects will be saved on here 
 ```javascript
 const jonas = {
   languages: ["Javascript", "HTML", "CSS/SCSS", "GML", "MySQL", "Python", "C#"],
+  workmethods: {
+    ide: "IntelliJ",
+    os: "Windows, but considering switching to Linux",
+    browser: "Brave"
+  },
   goals: ["VueJS", "TypeScript"],
   frameworks: {
     frontend: ["React", "Vue", "Angular"],
