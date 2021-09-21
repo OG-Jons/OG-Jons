@@ -1,4 +1,4 @@
-<h2>Sup loser! Jonas here </h2>
+<h2>Hello there!</h2>
 
 <!--♥♥♥ ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ♥♥♥ -->
 
