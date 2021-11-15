@@ -14,7 +14,7 @@ const jonas = {
   languages: ["Javascript", "HTML", "CSS/SCSS", "GML", "MySQL", "Python", "C#"],
   workmethods: {
     ide: "IntelliJ",
-    os: "Windows, but considering switching to Linux",
+    os: "Windows & Manjaro",
     browser: "Brave"
   },
   goals: ["VueJS", "TypeScript"],
