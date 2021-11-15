@@ -11,18 +11,18 @@ I also use this account for school, so my school projects will be saved on here 
 
 ```javascript
 const jonas = {
-  languages: ["Javascript", "HTML", "CSS/SCSS", "GML", "MySQL", "Python", "C#"],
-  workmethods: {
+  languages: ["Javascript", "TypeScript", "HTML", "CSS/SCSS", "GML", "MySQL", "Python", "C#", "Java"],
+  workEnvs: {
     ide: "IntelliJ",
     os: "Windows & Manjaro",
     browser: "Brave"
   },
-  goals: ["VueJS", "TypeScript"],
+  goals: ["NestJS", "Pog website, just need ideas"],
   frameworks: {
     frontend: ["React", "Vue", "Angular"],
-    backend: ["Django", "ExpressJS", "NodeJS", "Firebase"],
+    backend: ["Django", "ExpressJS", "Firebase", "NestJS"],
   },
-  dislikes: ["Java!"],
+  dislikes: ["Java"],
   hobbies: ["Programming", "Mountainbiking", "Movies", "Cars"],
   workingOn: ["Will to live"],
 };
