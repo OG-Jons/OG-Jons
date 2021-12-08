@@ -14,7 +14,7 @@ const jonas = {
   languages: ["Javascript", "TypeScript", "HTML", "CSS/SCSS", "GML", "MySQL", "Python", "C#", "Java"],
   workEnvs: {
     ide: "IntelliJ",
-    os: "Windows & Manjaro",
+    os: "Manjaro & Windows",
     browser: "Brave"
   },
   goals: ["NestJS", "Pog website, just need ideas"],
