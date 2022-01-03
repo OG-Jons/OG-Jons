@@ -23,7 +23,11 @@ const jonas = {
     backend: ["Django", "ExpressJS", "Firebase", "NestJS"],
   },
   dislikes: ["Java"],
-  hobbies: ["Programming", "Mountainbiking", "Movies", "Cars"],
+  hobbies: ["Programming", "Mountainbiking", "Movies", {
+                                                          title: "Cars",
+                                                          favouriteMarket: "JDM",
+                                                          dreamCar: "Nissan R35"
+                                                        }],
   workingOn: ["Will to live"],
 };
 
