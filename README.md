@@ -7,6 +7,8 @@ I'm Jonas, software engineer apprentice from someplace in Denmark but moved to S
 I'm a big fan of JavaScript (TypeScript FTW tho), so that's what you'll primarily see on here.
 I also use this account for school, so my school projects will be saved on here too!
 
+plz follow
+
 <h3>A bit more about me... 👇👇👇</h3>
 
 ```javascript
