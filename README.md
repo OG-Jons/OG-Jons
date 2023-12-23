@@ -4,13 +4,11 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-marschall-a052a119b) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JonsSchlong) 
-[![Viewcount](https://visitcount.itsvg.in/api?id=OG-Jons&icon=5&color=3)](https://visitcount.itsvg.in)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OG-Jons&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OG-Jons&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Jons&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OG-Jons&theme=discord&no-frame=false&no-bg=true&margin-w=4)
