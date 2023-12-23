@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonas-marschall-a052a119b) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OG-Jons&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OG-Jons&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OG-Jons&theme=gotham&hide_border=false)<br/>
 
 
